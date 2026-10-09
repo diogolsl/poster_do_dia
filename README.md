@@ -20,11 +20,11 @@
 
 - [1. Descrição do projeto](#1-descrição-do-projeto)
 - [2. Funcionalidades](#2-funcionalidades)
-- [3. Tecnologias utilizadas](#4-tecnologias-utilizadas)
-- [4. Arquitetura](#5-arquitetura)
-- [5. Organização dos diretórios](#6-organização-dos-diretórios)
-- [6. Participantes](#7-participantes)
-- [7. Licença, referências e contato](#15-licença-referências-e-contato)
+- [3. Tecnologias utilizadas](#3-tecnologias-utilizadas)
+- [4. Arquitetura](#4-arquitetura)
+- [5. Organização dos diretórios](#5-organização-dos-diretórios)
+- [6. Participantes](#6-participantes)
+- [7. Licença, referências e contato](#7-licença-referências-e-contato)
 
 ---
 
